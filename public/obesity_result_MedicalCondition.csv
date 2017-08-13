@@ -1,0 +1,10 @@
+"sep=,"
+DOC-ID,TP,FP,TN,FN,RECALL,PRECISION,ACCURACY
+obesity4,2,5,50,5,0.29,0.29,0.29
+obesity5,1,7,18,3,0.25,0.13,0.17
+obesity6,2,6,35,7,0.22,0.25,0.24
+obesity7,3,3,5,4,0.43,0.5,0.46
+obesity8,1,1,24,4,0.2,0.5,0.29
+
+
+,=SUM(B2:B101),=SUM(C2:C101),=SUM(D2:B101),=SUM(D2:B101)

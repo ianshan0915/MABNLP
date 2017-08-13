@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "thesis-163911",
+  "private_key_id": "e433ee1a91f32fca8ae05d0c4635296fc95ce574",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC/glD3UJq65AMo\nLf8BCZhfTSbcqphUfuuHS7y6aqVFjyosxz4h0lkzNRV31QwtOxa6OdpkqXLujTTm\nSYDG17iVENtRrEwVjdKCDiVH7y1KDS/BD3uwzvQIL44+QigSi8zWCcgZVJ3MOCuW\np6/HQoBRvooAbrMQglJgcd+iNoZvdqMI4r3VbLiqBU1EIN0CmaDur7iKaCUmunEw\nOeLNUubfpa8oCie6VVQc5wfq6xzAvxNcZHRddue+Vcrf30s2w6isVh6EvrjblsXJ\nS1wRnyAAonq012d6EG+D3pLVDe1zo9ucVjvAucQ4Pwb9HGwm42LtfsF8qy3OoDLM\neTAf6ZHHAgMBAAECggEBAIYChu3JNb05+QuQxDTRphJqRpt7tQTLm70dPn+kSOqX\n+AdFlTDNpSW0K8WjC9ZK1uiRu0VdXdOYdEABh1+dbMjC9vX7/3HFwFzJ0US5FZQQ\nDi6mywM6joF75amjWa9ArKHKTn+LOrDBTZ8q0FI7MtgA4UjULfGLgGGEzd0REpnD\n0AQ1NwbHOuVu+TgJWv8e5SmMxv3bPMia7k+LorhEiVVbqcN0C0MrtbFWGCMgJ2oG\nSQED4oGNUl6HC7tbBwGIRdL4Y21UmlDkSKgOMS0oSGYSHbLaLeehpEEct1KEzq5p\n+5iu0oTy2evHzcq0xQ3C4wIgJH0YZDU/uvGUlmaZG8ECgYEA8BTowgD2oRlyfcXW\ncAfordliPND5xKuspS69zwnd0uCJ1dQXOpnwwKyYgvO4VkSkFM/iZXusI1HZB2Ud\nDS3MlNwjxPvecVr+zlvl88nEY9T/FFZVe2BwJb++2aUck4MGoP9iKQ1d9bvyE7da\nznp0F4z6kMLtgldYWyGzYu+3rs8CgYEAzDTyTo7qrw/nguN+MHcp8qgPKRfNe6In\nPEidC1LhKbv131yUgTzvUouX/s6lxuWZg8+rDnjY+AbLQlao8/HhlA1MXyyc+3Em\nXwJE0p07UiPak2DxKQZ+K5tYl60M67Typdf0ertd9NqnD4baVdPeJxv+csolzd2R\nv/JRHHXL64kCgYEAnWAXc5TOFqxnsKqO9sE4dT2ad+NE1vbyJRWOtrjw/9rQf6qX\nz4I5nxOEpdK9c09rf3kGHyACpuRwL7jIYmszQCFOEUJJfmT3wq3a/wO0CP0GeH5f\napC88wHOST1Cji/FmKPP5LkubnbVKLd4fwEmOInhdiNRLa+z64kb3i7laWECgYAF\nCQkwhrWiu3Gp+JIT/9w474vwJ3YZplXxVpkIvnJu5QObDl1bEnWUQ3zr+4x66w5u\nAaDmKnSvKPu6FwjzevNlAy7u6dq1GIUpspSf3OCpldi96ZYIvPA/gwUcOFgpN70D\n+d89Z4FZmEqmR1z64M6JiFct3W4xNVVytjbpzL3KgQKBgQCeUHHh53idJF+reNcw\nixTyD80HtZEjUi01hcG2OMEHoaSYZi04cSjlHK7Bg0SKDoGwY27rV62Szhqh5ZvO\nszRk+UtmrDG/RS/KpE7XFTOiXGGUMeK6G+kyESFsHhA5yd6RNUJ/XacOzeUWmGBu\nBgMXuB2iE4+ai/lZMmuuYiuAsg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcloudnaturallanguage@thesis-163911.iam.gserviceaccount.com",
+  "client_id": "101552733965961109806",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcloudnaturallanguage%40thesis-163911.iam.gserviceaccount.com"
+}
