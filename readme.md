@@ -7,7 +7,13 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 
 ## Using MABNLP
 
+### Create accounts of NLP APIs
+
 Since MABNLP uses external NLP APIs, you need to first get accounts from the NLP API providers and with the accounts you'll obtain free access to their APIs. However, most of providers start to charge on usage after you have passed certain threshold. Please refer to the documentations of each provider for more details.
+
+### Obtain datasets from i2b2
+
+Obtain datasets for the 2008 Obesity Challenge and the 2009 Medication Challenge from [i2b2](https://www.i2b2.org/NLP/DataSets/Main.php). Then put dataset under './public/Documents/i2b2/'
 
 ### Prepare the environment for running the prototype
 
