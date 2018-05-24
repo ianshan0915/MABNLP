@@ -1,7 +1,7 @@
 /node_modules
 /public/storage
 /public/hot
-/public/Documents
+/public/Documents/i2b2
 /storage/*.key
 /vendor
 /.idea
