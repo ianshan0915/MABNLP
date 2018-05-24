@@ -9,7 +9,27 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 
 ### Create accounts of NLP APIs
 
-Since MABNLP uses external NLP APIs, you need to first get accounts from the NLP API providers and with the accounts you'll obtain free access to their APIs. However, most of providers start to charge on usage after you have passed certain threshold. Please refer to the documentations of each provider for more details.
+Since MABNLP uses external NLP APIs, you need to first get accounts from the NLP API providers and with the accounts you'll obtain free access to their APIs. However, most of providers start to charge on usage after you have passed certain threshold. Please refer to the documentations of each provider for more details. 
+
+After you have the accounts, update the keys in 'entityextraction.js'. The following shows how to update IBM watson-NLU's access keys.
+
+````javascript
+function RunWatson(text,docid){
+    var username = ""; // your username
+    var password = ""; // your password
+    var baseurl = ""; // api url
+
+    var outputmode = "json";
+    var apikey = ""; // api key
+
+    ShowOrHideLoader();
+
+    return $.ajax({
+        // send requests to the API
+    });
+
+}
+````
 
 ### Obtain datasets from i2b2
 
