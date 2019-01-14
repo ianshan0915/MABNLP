@@ -1,7 +1,7 @@
 ## About MABNLP
 
 MABNLP is a prototype that intends to extract clinical concepts from clinical free-texts, such as discharge summaries, clinical reports and etc. It was developed based on a scalable API-based architecture using Laravel. The architecture is shown as follows:
-<p align="center"><img src="system-architecture.svg"></p>
+<p align="center"><img src="system-architecture.png"></p>
 
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as: [routing](https://laravel.com/docs/routing), [session](https://laravel.com/docs/session), [database ORM](https://laravel.com/docs/eloquent), and etc. 
 
